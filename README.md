@@ -32,20 +32,14 @@ description: Simple Network Manager Protocol
 
 ### SNMP Version
 
-* **SNMPv1: **
+* **SNMPv1:**&#x20;
 
-1. only read\read
-2. gent與Manager需要設定相同Community
+1. only read
+2. agent與Manager需要設定相同Community
 
-* **SNMPv2:**
+* **SNMPv2 ＆ SNMPv3:**&#x20;
 
-1.
-
-* **SNMPv3:**
-
-1.
-
-加密, auth/
+1. 加密傳輸
 
 
 
@@ -61,5 +55,5 @@ SNMP 指令:
 
 > 小心得分享:
 >
-> 死記硬背理論, 還不如實際應用一回來的印象深刻! :")
+> 死記硬背理論, 還不如實際應用一回來的印象深刻!
 
